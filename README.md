@@ -1,5 +1,5 @@
 # DrinkApp
-An android application which uses example drink results for listing drink methods.
+An android application which uses Punkapi service to getting and listing drinks.
 
 ## Prerequisites
 
